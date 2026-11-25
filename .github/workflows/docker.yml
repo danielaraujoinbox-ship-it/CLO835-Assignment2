@@ -33,5 +33,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            danielaraujo02/clo835-assignment2:0.2
+            danielaraujo02/clo835-assignment2:0.3
             danielaraujo02/clo835-assignment2:${{ github.sha }}
